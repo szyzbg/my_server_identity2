@@ -1,1 +1,2 @@
-22:08:31 [GameplayData] LogGameRoundStart called with bEnableGameplayData false
+18:01:32 [GameplayData] LogGameRoundStart called with bEnableGameplayData false
+18:27:49 0x59325d26a020: request was cancelled
